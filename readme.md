@@ -1,6 +1,6 @@
-# School Management System
+# ScholarAdmin 
 
-The School Management System is a console-based C++ application that allows users to manage student and teacher records. This system is designed for educational institutions to keep track of student and teacher information. It provides functionalities for adding, retrieving, and displaying student and teacher details.
+The ScholaeAdmin is a console-based C++ application that allows users to manage student and teacher records. This system is designed for educational institutions to keep track of student and teacher information. It provides functionalities for adding, retrieving, and displaying student and teacher details.
 
 ## Table of Contents
 
@@ -44,13 +44,13 @@ To run the School Management System, you need:
 1. **Compile the Program**
    - Compile the program using a C++ compiler, for example:
      ```bash
-     g++ main.cpp -o school_management
+     g++ main.cpp -o ScholarAdmin
      ```
 
 2. **Run the Program**
    - Execute the compiled program:
      ```bash
-     ./school_management
+     ./ScholarAdmin
      ```
 
 3. **Interact with the Menu**
